@@ -38,3 +38,6 @@ NOTE : YARA RULES MAKE WİTH Aİ .
 note : GERÇEKÇİ KONUŞMAK GEREKİRSE ŞUANDA ÇALIŞIP ÇALIŞMADIĞI HAKINDA EN KÜÇÜK BİR FİKRİM BİLE YOK....
 
 ![Logo](./LOGO.png)
+
+
+https://guns.lol/hackedpatato
