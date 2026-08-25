@@ -39,5 +39,4 @@ note : GERÇEKÇİ KONUŞMAK GEREKİRSE ŞUANDA ÇALIŞIP ÇALIŞMADIĞI HAKINDA
 
 ![Logo](./LOGO.png)
 
-
-https://guns.lol/hackedpatato
+for donations : https://guns.lol/hackpatato
